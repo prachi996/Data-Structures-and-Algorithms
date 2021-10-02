@@ -36,4 +36,4 @@ int main()
 }
 
 //Time Complexity: O(n)
-//Space complexity: O(n)
+//Space complexity: O(1)
