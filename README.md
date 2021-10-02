@@ -14,3 +14,8 @@ Deep dive into the concepts of Data Structures and Algorithms
 - Create a Pull Request which will be reviewed by the maintainers and suggestions would be added to improve it (if needed)
 - Describe what your codeblock / function does in the PR.
 - Having difficulty in contributing? Read the [Contribution Guide](CONTRIBUTING.md) for a detailed explanation.
+
+## Important points that should be taken care of
+- Add your files in the respective folders only
+- Acknowledege the managers after you are given the permission to contribute
+- Contributions can be made in any programming language
