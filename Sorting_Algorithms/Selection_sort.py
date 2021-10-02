@@ -1,5 +1,5 @@
 
-def selectionAscending(array):
+def selectionAscending(array): #sorts the array in Increasing order
     l=len(array)
     for i in range(l):
         min_element=array[i]
@@ -11,7 +11,7 @@ def selectionAscending(array):
         array[i],array[min_index]=array[min_index],array[i]
     return array
 
-def selectionDescending(array):
+def selectionDescending(array): #sorts the array in Decreasing order
     l=len(array)
     for i in range(l):
         max_element=array[i]
