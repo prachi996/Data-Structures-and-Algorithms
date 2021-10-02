@@ -30,7 +30,7 @@ def display(array):
     return 
 
 if __name__=="__main__":
-    array=list(map(int,input().split()))
+    array=list(map(int,input("Array: ").split()))
     display(selectionAscending(array))
     display(selectionDescending(array))
     
