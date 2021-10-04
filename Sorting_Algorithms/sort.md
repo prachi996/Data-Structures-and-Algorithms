@@ -1,2 +1,2 @@
-# Add the codes for the sorting algorithms mentioned in issues 
-You can use any language for this
+# Folder for Sorting Algorithms
+Add the prgrams for sorting algorithms in all the possible languages
